@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+}
+
+.Clock{
+
+  position: absolute;
+  color: lime;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 60px;
+  font-family: Orbitron;
+  letter-spacing: 7px;
+}
+
+.border{
+  padding: 50px 100px 50px;
+}
